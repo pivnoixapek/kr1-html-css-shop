@@ -1,0 +1,16 @@
+*   [33mb40f0fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #3 from pivnoixapek/feature/form-modal-validation
+[31m|[m[32m\[m  
+[31m|[m * [33mb028156[m[33m ([m[1;31morigin/feature/form-modal-validation[m[33m, [m[1;32mfeature/form-modal-validation[m[33m)[m feat: add order form modal and validation
+[31m|[m[31m/[m  
+* [33m9b65653[m Update README.md
+*   [33m15a4f22[m Merge pull request #2 from pivnoixapek/feature/html-css-start-page
+[33m|[m[34m\[m  
+[33m|[m * [33m09350ab[m[33m ([m[1;31morigin/feature/html-css-start-page[m[33m)[m feat: add semantic HTML structure and base CSS styles
+* [34m|[m [33m167af69[m Update README.md
+[34m|[m[34m/[m  
+*   [33m646c2f4[m Merge pull request #1 from pivnoixapek/feature/start-page
+[35m|[m[36m\[m  
+[35m|[m * [33ma8455ef[m[33m ([m[1;31morigin/feature/start-page[m[33m)[m feat: add project description section
+[35m|[m[35m/[m  
+* [33m8c4d710[m docs: add project status to README
+* [33mf976f35[m feat: initialize frontend project structure
